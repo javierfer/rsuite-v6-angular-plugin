@@ -1,0 +1,14 @@
+[
+	{
+		"pluginName": "rsuite-v6-angular-plugin",
+		"scope": "browseTreeNode",
+		"menus": [
+			{
+				"actionName": "rsuite:navigateTo:rsuite-form-popup-plugin",
+				"label": "Launch Angular Popup",
+				"icon": "launch",
+				"target": "all"
+			}
+		]
+	}
+]

@@ -1,0 +1,9 @@
+<rsuite-plugin id="${project.artifactId}" version="${project.version} at ${timestamp}" description="${project.description}">
+
+	<extensionProvider id="rsuite.WebService">
+
+		<staticWebService path="/WebContent" root="${project.artifactId}" />
+
+	</extensionProvider>
+
+</rsuite-plugin>

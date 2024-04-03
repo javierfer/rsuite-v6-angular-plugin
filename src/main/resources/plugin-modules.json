@@ -1,0 +1,10 @@
+[
+    {
+        "pluginName": "rsuite-form-popup-plugin",
+        "location": "rsuite-v6-angular-plugin/rsuite-form-popup/index.html",
+        "pluginType": "navigation",
+        "moduleName": "RsuiteFormPopupPluginModule",
+        "rootComponent": "RsuiteFormPopupPluginComponent",
+        "description": "Create an new document"
+    }
+]
